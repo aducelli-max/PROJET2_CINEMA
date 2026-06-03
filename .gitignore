@@ -18,3 +18,11 @@ __pycache__/
 
 # Données temporaires
 *.tmp
+env/
+output/
+plots/
+*.csv
+*.parquet
+*.tsv.gz
+*.xlsx
+*.ipynb_checkpoints/
