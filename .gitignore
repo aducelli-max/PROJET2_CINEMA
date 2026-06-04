@@ -21,7 +21,7 @@ __pycache__/
 env/
 output/
 plots/
-*.csv
+movies_final.csv
 *.parquet
 *.tsv.gz
 *.xlsx
